@@ -9,6 +9,9 @@ we use it to send in email, then we can use triple quotes.
 
 In python, we can use square brackets to get the index of the string or
 character of the string.
+
+What is a string?
+String is a collection of characters.
 """
 
 short_msg = 'Python for Beginners'
