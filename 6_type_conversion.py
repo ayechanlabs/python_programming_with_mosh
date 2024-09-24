@@ -9,7 +9,7 @@ whenever we use input(), we will be asking the user to input the data.
 So we will giving input to program through terminal.
 So whatever we type inside the terminal, we treated it as string even if the
 numbers.
-in order word, the input() method takes input as a string.
+in other word, the input() method takes input as a string.
 so when we write like this: 2024 - birth_year, python see it as like this:
 2024 - '1998', so we are doing calculation with string and integer, python
 doesn't know it how to do it.
