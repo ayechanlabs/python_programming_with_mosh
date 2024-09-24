@@ -16,4 +16,3 @@ print(x)
 
 # But in python, it goes like that:
 # BIDASA
-
