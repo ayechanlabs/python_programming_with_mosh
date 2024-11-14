@@ -20,3 +20,5 @@ for counter in numbers:
     for count in range(counter):
         output += 'x'
     print(output)
+
+# Exercise: print letter 'L' using '*'
