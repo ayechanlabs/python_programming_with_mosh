@@ -32,7 +32,6 @@ print(matrix[0][-1]) # 3
 print(matrix[-1][0]) # 7
 print(matrix[-1][-1]) # 9
 
-
 # we can also use nested loop to iterate all the item from the 2d list
 for lst in matrix:
     for item in lst:
